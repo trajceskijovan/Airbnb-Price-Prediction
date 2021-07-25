@@ -5,6 +5,9 @@ Airbnb 2021 data was sourced from: http://insideairbnb.com/get-the-data.html
 
 # Task:
 
-Explore Airbnb calendars data
-Explore Airbnb listings data
-Predict listing prices (Random Forest and LightGBM)
+1. Explore Airbnb calendars data
+2. Explore Airbnb listings data
+3. Predict listing prices (Random Forest and LightGBM)
+
+# Jupiter Notebook:
+
