@@ -51,3 +51,4 @@ https://github.com/trajceskijovan/Airbnb-Price-Prediction/blob/main/Airbnb%20Lis
 ![](samples/18.png)
 
 
+
